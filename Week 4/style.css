@@ -1,0 +1,110 @@
+body{
+    background-color: #16365d;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color: rgb(245, 245, 245);
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: large;
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+.footers{
+    color: fuchsia;
+}
+
+.document{
+    color: red;
+    text-decoration: underline;
+}
+
+.tables{
+    color: red;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+
+.picture{
+    color: yellow;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.selected{
+    color: blue;
+    font-weight: lighter;
+}
+
+.quick{
+    color: lime;
+}
+p2{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    width: 50%;
+    height: 60px;
+}
+
+.directly{
+    color: blue;
+    font-weight: lighter;
+}
+
+.theme{
+    color: red;
+}
+
+.include{
+    color: black;
+    background-color: lime;
+}
+
+h4{
+    color: lime;
+    font-size: 25px;
+}
+
+h5{
+    color: yellow;
+    font-size: 25px;
+    text-decoration: underline;
+    text
+}
+
+.on{
+    color: white;
+    background-color: red;
+}
+
+.most{
+    color: white;
+    background-color: black;
+    font-style: italic;
+    padding: 2.5%;
+    border-right: 2% solid yellow;
+    border-width: ;
+}
+
+.you{
+    text-align: right;
+}
+
+.when{
+    text-align: center;
+}
